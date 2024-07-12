@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohamed Mustapha
-- 👀 I’m interested in Sofware Architect and Senior .Net Developer
-- 😄 Pronouns: ...
+- 👀 I’m interested in Sofware Architecture and Senior .Net Development 
+- 😄 Pronouns: Himself/his self
 - ⚡ Fun fact: ...
 
 <!---
